@@ -1,3 +1,3 @@
 # Snake-Game
 
-SImply run index.html file in your browser
+Simply run index.html file in your browser
